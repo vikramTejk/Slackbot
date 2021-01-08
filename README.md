@@ -1,0 +1,2 @@
+# slackbot
+Automatic replies 
